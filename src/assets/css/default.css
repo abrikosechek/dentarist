@@ -1,0 +1,20 @@
+@import url('https://stijndv.com/fonts/Eudoxus-Sans.css');
+
+* {
+  box-sizing: border-box;
+}
+
+*::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+body {
+  margin: 0;
+  font-family: Eudoxus Sans, sans-serif;
+}
+
+button {
+  border: 0;
+  cursor: pointer;
+}

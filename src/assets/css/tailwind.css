@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  * {
+    @apply font-medium duration-[0.2s];
+  }
+
+  a {
+    @apply hover:text-primary;
+  }
+
+  .container {
+    @apply w-full max-w-[1280px] mx-auto;
+  }
+  
+  .container-lg {
+    @apply w-full max-w-[1390px] mx-auto;
+  }
+}
