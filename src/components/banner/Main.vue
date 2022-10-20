@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container-lg relative flex items-center h-[700px] px-[100px] py-[80px] bg-birch rounded-[50px] text-dark-blue overrflow-hidden"
+    class="container-lg relative flex items-center h-[700px] px-[100px] py-[80px] bg-birch rounded-[50px] text-dark-blue overflow-hidden"
   >
     <!-- Content -->
     <div class="relative max-w-[550px] mt-[50px] z-[3]">

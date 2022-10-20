@@ -26,6 +26,11 @@ module.exports = {
           lineHeight: '28px',
           fontWeight: '500',
         }],
+        'xl-1': ['36px', {
+          lineHeight: '72px',
+          letterSpacing: '-0.03em',
+          fontWeight: '500',
+        }],
         'xl': ['48px', {
           lineHeight: '60px',
           fontWeight: '700',
